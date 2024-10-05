@@ -22,4 +22,8 @@ public class Country {
     private String region;
     private List<String> borders;
     private Map<String, String> languages;
+
+    public <E> Country(String arg, String argentina, Object o, Object o1, Object o2, List<E> bra) {
+
+    }
 }
